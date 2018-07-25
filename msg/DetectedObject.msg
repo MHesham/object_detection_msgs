@@ -1,6 +1,6 @@
 string label
-int32 x1
-int32 x2
-int32 y1
-int32 y2
-float32 prob
+float32 x_center
+float32 y_center
+float32 width
+float32 height
+float32 probability
